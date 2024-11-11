@@ -48,10 +48,10 @@
 
 ## Awards
 
-- Honours at Entrance, CUHK, 10/2020
-- Dean’s List, Faculty of Engineering, CUHK, 2021, 2022, 2023
-- Annual Scholarship for Elite Stream, CSE Department, CUHK, 2021, 2022, 2023, 2024
-- Annual Scholarships Academic, S.H. Ho College, CUHK, 12/2021
+- **Honours at Entrance**, CUHK, 10/2020
+- **Dean’s List, Faculty of Engineering**, CUHK, 2021, 2022, 2023
+- **Annual Scholarship for Elite Stream**, CSE Department, CUHK, 2021, 2022, 2023, 2024
+- **Annual Scholarships Academic**, S.H. Ho College, CUHK, 12/2021
 
 ## Experience
 
