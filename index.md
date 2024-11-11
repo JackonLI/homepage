@@ -4,7 +4,7 @@ title: Jianqiang's Homepage
 
 # Jianqiang LI (李建强)
 
-![Jianqiang Li](path/to/your/photo.jpg)
+![Jianqiang Li](myphoto.jpg)
 
 Welcome to my academic homepage! I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. I received my B. Sc. in Computer Science in 2024 from CUHK.
 
