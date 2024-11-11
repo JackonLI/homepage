@@ -7,7 +7,7 @@
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <p><span style="font-size: 1.5em; font-weight: bold;">Jianqiang LI (李建强)</span></p>
-      <p>Welcome to my academic homepage! I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
+      <p>Welcome to my homepage! I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
     </td>
   </tr>
 </table>
