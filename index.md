@@ -1,13 +1,16 @@
----
-title: Jianqiang's Homepage
----
+# Jianqiang Li (李建强)
 
-# Jianqiang LI (李建强)
+<div style="display: flex; align-items: center;">
 
-![Jianqiang Li](myphoto.jpg)
+<div style="flex: 1;">
+  <img src="myphoto.jpg" alt="Jianqiang Li" width="150">
+</div>
 
-Welcome to my academic homepage! I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. I received my B. Sc. in Computer Science in 2024 from CUHK.
+<div style="flex: 2; padding-left: 20px;">
+  <p>Welcome to my academic homepage! I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
+</div>
 
+</div>
 ## Contact Information
 
 - **Email**: [1155157143@link.cuhk.edu.hk](mailto:1155157143@link.cuhk.edu.hk) / [jqli1@cse.cuhk.edu.hk](mailto:jqli1@cse.cuhk.edu.hk)
