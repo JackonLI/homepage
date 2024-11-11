@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
 
 <div style="flex: 1;">
-  <img src="myphoto.jpg" alt="Jianqiang Li" width="150">
+  <img src="myphoto.jpg" alt="Jianqiang Li" width="30">
 </div>
 
 <div style="flex: 2; padding-left: 20px;">
@@ -11,6 +11,7 @@
 </div>
 
 </div>
+
 ## Contact Information
 
 - **Email**: [1155157143@link.cuhk.edu.hk](mailto:1155157143@link.cuhk.edu.hk) / [jqli1@cse.cuhk.edu.hk](mailto:jqli1@cse.cuhk.edu.hk)
