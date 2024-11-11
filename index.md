@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 150px;">
+    <td style="vertical-align: top; width: 750px;">
       <img src="myphoto.jpg" alt="Jianqiang Li" width="150">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
