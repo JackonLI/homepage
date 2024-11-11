@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 1000px;">
-      <img src="myphoto.jpg" alt="Jianqiang Li" width="1000">
+    <td style="vertical-align: top; width: 150px;">
+      <img src="myphoto.jpg" alt="Jianqiang Li" width="150">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <p><span style="font-size: 1.5em; font-weight: bold;">Jianqiang LI (李建强)</span></p>
