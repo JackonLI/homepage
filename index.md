@@ -2,7 +2,7 @@
 
 <img src="myphoto.png" alt="Jianqiang Li" width="200" style="float: right; margin-left: 20px; border-radius: 8px;">
 
-I am a Ph.D. student from the [NetX Lab](https://netx.cse.cuhk.edu.hk/), Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hong Xu, Henry](https://home.cse.cuhk.edu.hk/~hongxu/).
+I am a Ph.D. student from the NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hong Xu, Henry](https://henryhxu.github.io/index.html).
 
 I received my B.Sc. in Computer Science in 2024 from CUHK.
 
