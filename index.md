@@ -1,16 +1,16 @@
 # Jianqiang Li (李建强)
 
-<img src="myphoto.png" alt="Jianqiang Li" width="200" style="float: right; margin-left: 20px; border-radius: 8px;">
-
-I am a Ph.D. student from the NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Hong Xu, Henry](https://henryhxu.github.io/index.html).
-
-I received my B.Sc. in Computer Science in 2024 from CUHK.
-
-My research interest is **Machine Learning for Network Management**, with a specific focus on **intent-based networking**.
-
-[Email](mailto:jqli1@cse.cuhk.edu.hk) / [GitHub](https://github.com/JackonLI)
-
-<div style="clear: both;"></div>
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1;">
+    <p>I am a Ph.D. student from the NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by <a href="https://henryhxu.github.io/index.html">Prof. Hong Xu, Henry</a>.</p>
+    <p>I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
+    <p>My research interest is <strong>Machine Learning for Network Management</strong>, with a specific focus on <strong>intent-based networking</strong>.</p>
+    <p><a href="mailto:jqli1@cse.cuhk.edu.hk">Email</a> / <a href="https://github.com/JackonLI">GitHub</a></p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="myphoto.png" alt="Jianqiang Li" width="200" style="border-radius: 8px; margin: 0;">
+  </div>
+</div>
 
 <br/>
 
