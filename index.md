@@ -1,7 +1,10 @@
-# Jianqiang Li (李建强)
+---
+layout: home
+---
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; gap: 20px;">
   <div style="flex: 1;">
+    <h1>Jianqiang Li (李建强)</h1>
     <p>I am a Ph.D. student from the NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by <a href="https://henryhxu.github.io/index.html">Prof. Hong Xu, Henry</a>.</p>
     <p>I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
     <p>My research interest is <strong>Machine Learning for Network Management</strong>, with a specific focus on <strong>intent-based networking</strong>.</p>
