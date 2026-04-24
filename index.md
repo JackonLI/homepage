@@ -1,59 +1,64 @@
-
-
 <table>
   <tr>
     <td style="vertical-align: top; width: 300px;">
-      <img src="myphoto.jpg" alt="Jianqiang Li" width="300">
+      <img src="myphoto.png" alt="Jianqiang Li" width="300" style="border-radius: 8px;">
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p><span style="font-size: 1.5em; font-weight: bold;">Jianqiang LI (李建强)</span></p>
-      <p>I am a year 1 Ph.D. student from NetX Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. Hong Xu, Henry. </p>
+    <td style="vertical-align: top; padding-left: 30px;">
+      <p><span style="font-size: 2em; font-weight: bold;">Jianqiang LI (李建强)</span></p>
+      <p>I am a Ph.D. student from the <a href="https://netx.cse.cuhk.edu.hk/">NetX Lab</a>, Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by <a href="https://home.cse.cuhk.edu.hk/~hongxu/">Prof. Hong Xu, Henry</a>.</p>
       <p>I received my B.Sc. in Computer Science in 2024 from CUHK.</p>
-      <p>I'm interested in computer networking and systems, LLMs, and general machine learning problems.</p>
+      <p>My underlying research interest is <strong>Machine Learning for Network Management</strong>, particularly focusing on <strong>intent-based networking</strong>.</p>
+      <div style="margin-top: 15px;">
+        <a href="mailto:jqli1@cse.cuhk.edu.hk">[Email]</a> 
+        <a href="https://github.com/JackonLI">[GitHub]</a>
+      </div>
     </td>
   </tr>
 </table>
 
-## Contact Information
+---
 
-- **Email**: [1155157143@link.cuhk.edu.hk](mailto:1155157143@link.cuhk.edu.hk) / [jqli1@cse.cuhk.edu.hk](mailto:jqli1@cse.cuhk.edu.hk)
-- **Office**: Room 904, Ho Sin-Hang Engineering Building, CUHK
-- **Phone**: +852 56934986 / +86 13663579329
+## 🔬 Research Interests
 
-## Education
+- **Machine Learning for Network Management**
+- **Intent-based Networking**
+- Computer Networks and Systems
+- Applied Large Language Models (LLMs)
+
+---
+
+## 📚 Publications
+
+- **Automating Conflict-Aware ACL Configurations with Natural Language Intents**  
+  *Wenlong Ding, **Jianqiang Li**, Zhixiong Niu, Huangxun Chen, Yongqiang Xiong, and Hong Xu*  
+  arXiv preprint arXiv:2508.17990, 2025.  
+
+- **Automating Network Configuration with Natural Language Intents**  
+  *Wenlong Ding, **Jianqiang Li**, Zhixiong Niu, Huangxun Chen, and Hong Xu*  
+  ACM SIGCOMM 2024 Posters and Demos, 2024.  
+  [DOI](https://doi.org/10.1145/3672202.3673721)
+
+---
+
+## 🎓 Education
 
 - **Ph.D. in Computer Science and Engineering**  
   The Chinese University of Hong Kong  
   *08/2024 – Present*  
-  Expected Graduation: 07/2028
 
 - **B.Sc. in Computer Science**  
   The Chinese University of Hong Kong  
   *08/2020 – 07/2024*  
-  cGPA: 3.789/4.0
+  cGPA: 3.789/4.0 
 
-## Publications
+---
 
-- **Automating Network Configuration with Natural Language Intents**  
-  *Wenlong Ding, Jianqiang Li, Zhixiong Niu, Huangxun Chen, and Hong Xu*  
-  ACM SIGCOMM 2024 Posters and Demos, 2024.  
-  [DOI: 10.1145/3672202.3673721](https://doi.org/10.1145/3672202.3673721)
+## 💼 Experience
 
-## Teaching
-
-- **Teaching Assistant**  
-  CSCI3150 Introduction to Operating Systems  
-  CUHK, Fall 2024  
-  Class Size: 200, Onsite
-
-## Awards
-
-- **Honours at Entrance**, CUHK, 10/2020
-- **Dean’s List, Faculty of Engineering**, CUHK, 2021, 2022, 2023
-- **Annual Scholarship for Elite Stream**, CSE Department, CUHK, 2021, 2022, 2023, 2024
-- **Annual Scholarships Academic**, S.H. Ho College, CUHK, 12/2021
-
-## Experience
+- **Graduate Teaching Assistant**  
+  CUHK
+  - CSCI3320 Fundamentals of Machine Learning (Spring 2025)
+  - CSCI3150 Introduction to Operating Systems (Fall 2024)
 
 - **Undergraduate Summer Research Internship 2023**  
   CUHK, Topic: Automated Network Configuration  
@@ -63,16 +68,13 @@
   CUHK, Topic: Reinforcement Learning for Autonomous Systems  
   *Supervisor: Dr. HAN, Dongkun & Mr. HUANG, Hejun*
 
-## Skills
+---
 
-- **Programming Languages**: C/C++, Java, Python
-- **Spoken Languages**: Mandarin (native), English (IELTS 7.0)
+## 🏆 Awards
 
-## Research Interests
+- **Dean’s List, Faculty of Engineering**, CUHK (2021, 2022, 2023)
+- **Annual Scholarship for Elite Stream**, CSE Department, CUHK (2021, 2022, 2023, 2024)
+- **Annual Scholarships Academic**, S.H. Ho College, CUHK (12/2021)
+- **Honours at Entrance**, CUHK (10/2020)
 
-- Computer Networks
-- Machine Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLM)
-
-Feel free to reach out if you are interested in my work or potential collaborations!
+---
